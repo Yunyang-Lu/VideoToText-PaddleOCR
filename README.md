@@ -1,6 +1,6 @@
 # VideoToText-PaddleOCR
 
-##Usage:
+## Usage:
 ###	install required python packages:
 ###		pip install -r requirements.txt
 ###	create directory ./Video
