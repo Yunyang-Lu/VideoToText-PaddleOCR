@@ -1,0 +1,5 @@
+// to start trainning(fine tunning)
+python tools/train.py -c configs/det/det_mv3_db.yml -o Global.pretrained_model=./pretrain_models/en_PP-OCRv3_det
+
+//export the model after trainning
+python tools/export_model.py -c configs/det/det_mv3_db.yml -o Global.pretrained_model="./output/en_v3_det/best_accuracy" Global.save_inference_dir="./output/en_v3_det_inference/"
