@@ -93,8 +93,8 @@
 093.jpg	
 094.jpg	Masyaf Flag Gollected 10/20 Assassins Flags were collected from Masyaf. Saving... 
 095.jpg	Masyaf Flag Collected 10/20 Assassins Flags were collected from Masyaf. 
-096.jpg	68:45:50:09 Status: Memory Block 3 Al Mualim Speak with Bureau Leader in Acre WAITING Speak with Bureau Leader in Jerusalem FOR INPUT All Objectives MASYAF Approx.Population:1.925 Zoom >Legend >Back 
-097.jpg	227162:16 Status: Memory Block 3 Speak with Bureau Leader in Acre MEMORY Speak with Bureau Leader in Jerusalem M All Objectives MASYAF Approx.Population:1.925 Zoom >Legend >Back 
+096.jpg	68:45:5009 Status: Memory Block 3 Al Mualim Speak with Bureau Leader in Acre WAITING Speak with Bureau Leader in Jerusalem FOR INPUT All Objectives MASYAF Approx.Population:1.925 Zoom >Legend >Back 
+097.jpg	227162:16 Status: Memory Block 3 Speak with Bureau Leader in Acre MEMORY Speak with Bureau Leader in Jerusalem M M All Objectives MASYAF Approx.Population:1.925 Zoom >Legend >Back 
 098.jpg	29:38:19:16 Status: Memory Block 3 Speak with Bureau Leader in Acre Speak with Bureau Leader in Jerusalem MEMORY MAP 10 PlayerMa All Objectives MASYAF Approx.Population:1.925 Zoom >Legend >Back 
 099.jpg	
 100.jpg	13 
@@ -123,7 +123,7 @@
 123.jpg	
 124.jpg	Masyaf Flag Collected 13/20 Assassins Flags were coll Saving... 
 125.jpg	Masyaf Flag Collected 13/20 Assassins Flags were collected from Masyaf. 5 
-126.jpg	4576:89:05 Status: Memory Block 3 Speak with Bureau Leader in Acre MEMORY Speak with Bureau Leader in Jerusalem MAP All Objectives MASYAF Approx.Population:1.925 Zoom >Legend >Back 
+126.jpg	Status: 45:76:89:05 Memory Block 3 Speak with Bureau Leader in Acre MEMORY Speak with Bureau Leader in Jerusalem MAP All Objectives MASYAF Approx.Population:1.925 Zoom >Legend >Back 
 127.jpg	85:75:14:51 Status: Memory Block 3 Speak with Bureau Leader in Acre MEMORY Speak with Bureau Leader in Jerusalem MAP All Objectives MASYAF Approx.Population:1.925 Zoom >Legend >Back 
 128.jpg	25:64:81:72 Status: Memory Block 3 Speak with Bureau Leader in Acre MEMORY Speak with Bureau Leader in Jerusalem MAP Player Mark All Objectives MASYAF Approx.Population:1.925 Zoom >Legend >Back 
 129.jpg	39:28:17:65 Status: Memory Block3 Speak with Bureau Leader in Acre WAITING Speak with Bureau Leader in Jerusalem FOR INPUT Player Marker # All Objectives MASYAF Approx.Population:1.925 Zoom >Legend >Back 
@@ -178,7 +178,7 @@
 178.jpg	Masyaf Flag Gollected 19 / 20 Assassins Flags were collected from Masya Saving... 
 179.jpg	Masyaf Flag Collected 19/20 Assassins Flags were collected from Masyaf. 
 180.jpg	Status: 85:75:14:51 Memory Block3 Speak with Bureau Leader in Acre WAITING Speak with Bureau Leader in Jerusalem FOR INPUT All Objectives MASYAF Approx.Population:1.925 Zoom >Legend >Back 
-181.jpg	Status: 25:64:8172 Memory Block 3 Speak with Bureau Leader in Acre MEMORY Speak with Bureau Leader in Jerusalem MAP 219P All Objectives MASYAF Approx.Population:1.925 Zoom >Legend >Back 
+181.jpg	Status: 25:64:8172 Memory Block 3 Speak with Bureau Leader in Acre MEMORY Speak with Bureau Leader in Jerusalem MAP All Objectives MASYAF Approx.Population:1.925 Zoom >Legend >Back 
 182.jpg	39:28:17:65 Status: Memory Block 3 Speak with Bureau Leader in Acre MEMORY Speak with Bureau Leader in Jerusalem MAP # All Objectives MASYAF Approx.Population:1.925 Zoom >Legend >Back 
 183.jpg	
 184.jpg	

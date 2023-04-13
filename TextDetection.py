@@ -21,7 +21,7 @@ def textDect (img_dir, det_dir, cls_dir, rec_dir, drawing_dir):
                     --use_space_char=True \
                     --use_angle_cls=False \
                     --draw_img_save_dir="'+drawing_dir+'" \
-                    --use_gpu=False')
+                    --use_gpu=True')
     #'''
     """
      --rec_batch_num=6 --max_text_length=25\
